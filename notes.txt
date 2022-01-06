@@ -1,0 +1,44 @@
+MICROSERVICES:
+
+	One of the popular architecture in Software World.
+	
+
+Agenda:
+
+	1.  History of Microservices
+	2.  Problems with Monolith & SOA[Service Oriented Architecture]
+	3.  Microservices Architecture
+	4.  Problems solved by Microservices
+	5.  Designing Microservices Architecture
+	6.  Deploying Microservices [deep dive in CONTAINERS & Kubernetes concepts]
+	7.  Testing Microservices
+	8.  Service Mesh [Make Communication between services]
+	9.  Logging & Monitoring
+	10. When we should not use Microservices
+	11. Microservices & the organization
+	12. Anti-Patterns & Common Mistakes
+	13. Breaking Monolith to Microservices
+	14. Case Study
+	15. Conclusions
+	
+	
+
+History:
+
+	Microservices are introduced to overcome the problems faced in 2 different architectures...
+		i.  Monolith
+		ii. SOA (Service Oriented Architecture)
+		
+	
+	MONOLITH Architecture:
+		Original Architecture
+		
+		All the software components are executes as Single Process.
+			-> Thread
+			-> Memory Resource
+			-> Compute Power
+		
+		Strong Coupling
+		Implemented as SILO (Standalone Apps). It will not export anything. Nothing can Go Out.
+	
+		
